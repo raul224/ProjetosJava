@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tp2-ProjetoDeBloco/Tp2-ProjetoDeBloco.iml" filepath="$PROJECT_DIR$/Tp2-ProjetoDeBloco/Tp2-ProjetoDeBloco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projetoTp1/projetoTp1.iml" filepath="$PROJECT_DIR$/projetoTp1/projetoTp1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projetoTp2/projetoTp2.iml" filepath="$PROJECT_DIR$/projetoTp2/projetoTp2.iml" />
+    </modules>
+  </component>
+</project>
