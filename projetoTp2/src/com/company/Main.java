@@ -10,12 +10,13 @@ import java.util.Scanner;
 
 public class Main {
     static List<Pessoa> listaPessoas = new ArrayList<>();
+    static Scanner scan = new Scanner(System.in);
 
     public static void main(String[] args) {
         var op = ExibeMenu();
 
         while(!op.equals("4")){
-            Scanner scan = new Scanner(System.in);
+
             switch (op){
                 case "1":
                     if (listaPessoas.size() < 100){
@@ -92,9 +93,7 @@ public class Main {
         System.out.println("3 - Consultar situação de um docente/discente");
         System.out.println("4 - Sair");
 
-        Scanner scan = new Scanner(System.in);
         String op = scan.nextLine();
-        scan.close();
         return op;
     }
 }
